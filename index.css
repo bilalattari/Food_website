@@ -1,0 +1,11 @@
+.food_container{
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.food_div{
+    margin: 12px;
+    border: 1px solid palevioletred;
+}
